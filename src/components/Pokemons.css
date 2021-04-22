@@ -1,0 +1,70 @@
+.carta {
+  color: white;
+}
+.bg-pink-200,
+.bg-pink-300 {
+  color: black;
+}
+.grass {
+  background-color: green;
+}
+.bug {
+  background-color: lightgreen;
+}
+.dark {
+  background-color: black;
+  color: white;
+}
+.dragon {
+  background-color: rgb(0, 0, 250);
+  color: white;
+}
+.electric {
+  background-color: rgb(248, 252, 1);
+  color: black;
+}
+.fairy {
+  background-color: lightpink;
+}
+.fighting {
+  background-color: rgb(204, 22, 22);
+  color: white;
+}
+.fire {
+  background-color: orangered;
+  color: white;
+}
+.flying {
+  background-color: skyblue;
+}
+.ghost {
+  background-color: rgb(67, 5, 138);
+  color: white;
+}
+.ground {
+  background-color: sandybrown;
+}
+.ice {
+  background-color: lightskyblue;
+}
+.normal {
+  background-color: lightslategray;
+}
+.poison {
+  background-color: purple;
+  color: white;
+}
+.psychic {
+  background-color: rgb(245, 0, 171);
+  color: white;
+}
+.rock {
+  background-color: brown;
+}
+.steel {
+  background-color: grey;
+}
+.water {
+  background-color: rgb(71, 71, 248);
+  color: white;
+}
